@@ -17,8 +17,6 @@ The Invoice Generator App is a Flutter-based tool that simplifies invoice creati
 
 OUTPUT :
 
-![12])
-
 <img src = "https://github.com/user-attachments/assets/0f71ecdd-94bb-491b-8cd9-217176c85c03" width="200">
 <img src = "https://github.com/user-attachments/assets/a00e25a0-daf4-486f-9b8f-d41e8a43328b " width="200">
 <img src = "https://github.com/user-attachments/assets/ae722e4f-ff95-4984-a20d-b04224bd1f58 " width="200">
